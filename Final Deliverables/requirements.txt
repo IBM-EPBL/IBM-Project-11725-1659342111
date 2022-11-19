@@ -1,0 +1,8 @@
+numpy
+pandas
+wheel
+sklearn
+Flask
+requests
+Babel
+scikit-learn
